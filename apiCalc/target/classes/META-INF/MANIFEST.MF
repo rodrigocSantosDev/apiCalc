@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: apiTeste
+Implementation-Version: 1.0.0-SNAPSHOT
+Built-By: T053438
+Implementation-Vendor-Id: br.com.apiCalc
+Build-Jdk: 1.8.0_161
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
